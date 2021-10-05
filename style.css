@@ -1,6 +1,7 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
   color: black;
+  background-color: lightskyblue;
 }
 
 .about-me {
@@ -13,16 +14,21 @@ body {
 }
 
 h1 {
-  color: Azure;
-  font-size: 20px;
+  font-size: 30px;
   
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
 }
 
 main {
-  text-align: center;
+  text-align: right;
+}
+
+a {
+ color: tomato; 
+ background-color: black;
+  opacity: 0.5;
 }
