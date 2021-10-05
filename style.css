@@ -1,3 +1,8 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
+
 .header {
   background-color: CornflowerBlue;
   text-align: center;
@@ -13,8 +18,11 @@
 
 h1 {
   color: Azure;
+  font-size: 20px;
+  
 }
 
-body {
-  font-family: Georgia;
+p {
+  font-size: 18px;
+  font-weight: bold;
 }
