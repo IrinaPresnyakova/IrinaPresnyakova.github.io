@@ -24,11 +24,10 @@ p {
 }
 
 main {
-  text-align: right;
+  text-align: left;
 }
 
 a {
  color: tomato; 
  background-color: black;
-  opacity: 0.5;
 }
